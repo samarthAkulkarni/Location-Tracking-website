@@ -1,0 +1,23 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    gap: 40px;
+}
+
+.loading {
+    font-size: 40px;
+    font-weight: 900;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+}
+
+
