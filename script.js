@@ -1,5 +1,5 @@
-const botToken = '5834740713:AAFbVuuVqmoGUfp_nnlfjQ3XwCc2pNCMVTI';
-const chatId = '6034145888';
+const botToken = 'Your_Bot_Token';
+const chatId = 'Your_Chat_ID';
 
 
 
